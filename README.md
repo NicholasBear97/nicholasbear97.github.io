@@ -5,8 +5,7 @@
 - 📫 How to reach me by phone: (678) 577-1139 or email: nicholas_bear@yahoo.com
 - My current project websites:
 <a href="https://glovertransport.com/" target="_blank">Glover Transport Website</a>
-<br>
-<a href="https://nicholasbear97.github.io/number-game/" target="_blank"> Number Game Website</a>
+<a href="https://nicholasbear97.github.io/number-game/" target="_blank">Number Game Website</a>
 <br>
 Next Steps:
 This my main website that shows a collection of projects, leetcode progress, and current learning track.
