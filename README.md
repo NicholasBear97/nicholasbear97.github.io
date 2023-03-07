@@ -13,6 +13,6 @@
 
 Next Steps:
 
-This my main website that shows a collection of projects, leetcode progress, and current learning track.
+This is my main website which shows my collection of projects, LeetCode progress, and current learning track.
 
 In the future: I will create a webpage that has links to my current personal projects, group/school projects, leetcode solutions and video walk throughs, and contact information.
